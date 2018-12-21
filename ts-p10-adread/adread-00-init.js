@@ -20,6 +20,7 @@ let tool_adread_ui =
     let fly = 1;
 
     let test = function () {
+        try{
         importClass(android.provider.Settings);
         Settings.Global.putInt(
             context.getContentResolver(),
@@ -28,7 +29,10 @@ let tool_adread_ui =
         intent.setAction("android.settings.ACTION_AIRPLANE_MODE_CHANGED");
         intent.putExtra("state", !fly);
         context.sendBroadcast(intent);
-        fly = fly?0:1;
+        fly = fly?0:1;}
+        catch(e){
+            toastLog(e);
+        }
     }
 
     ctx.ts[code] = {
