@@ -10,11 +10,6 @@ let tool_adread_ui =
     </ScrollView>;
 
 (function () {
-    try {
-        require(encodeURI("ts4sys.js", "UTF-8"));
-        sleep(400);
-    } catch (e) { }
-
     let code = "tool_adread";
 
     let fly = 1;
@@ -38,7 +33,7 @@ let tool_adread_ui =
     ctx.ts[code] = {
         ui: ui.inflate(tool_adread_ui),
         run: function () {
-            alert("请选择其他工具运行");
+            alert("请选择其他工具运行1");
         },
         init: () => {
             ui.btn_test.click(function () {
