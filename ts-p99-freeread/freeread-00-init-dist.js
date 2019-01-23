@@ -11,7 +11,7 @@ let tool_freeread_ui =
 
 
 (function () {
-
+    let code = "tool_freeread";
     let mth = threads.start(function () {
 
         try {
