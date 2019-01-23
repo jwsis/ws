@@ -19,7 +19,7 @@ let tool_freeread_ui =
                 th: mth,
                 ui: ui.inflate(tool_freeread_ui),
                 run: function () { 
-                    alert(111)
+                    toastLog(111)
                 },
                 init: () => {
                     
