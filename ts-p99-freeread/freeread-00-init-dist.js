@@ -20,9 +20,11 @@ let tool_freeread_ui =
             ctx.ts[code] = {
                 th: mth,
                 ui: myui,
-                run: function () { },
-                init: () => {
+                run: function () { 
                     ui.web.loadUrl("http://www.baidu.com");
+                },
+                init: () => {
+                    
                 }
             };
 
