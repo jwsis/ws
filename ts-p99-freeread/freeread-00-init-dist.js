@@ -21,7 +21,9 @@ let tool_freeread_ui =
                 th: mth,
                 ui: myui,
                 run: function () { },
-                init: () => { }
+                init: () => {
+                    ui.web.loadUrl("http://www.baidu.com");
+                }
             };
 
         } catch (e) {
