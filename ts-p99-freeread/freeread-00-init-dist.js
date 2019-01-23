@@ -2,7 +2,7 @@
 let tool_freeread_ui =
     <ScrollView>
         <vertical>
-            <text text="====说明====" marginTop="10" textColor="blue" gravity="center" typeface="monospace" />
+            <text text="====说明v2====" marginTop="10" textColor="blue" gravity="center" typeface="monospace" />
         </vertical>
     </ScrollView>;
 
