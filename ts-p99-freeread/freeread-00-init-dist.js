@@ -9,14 +9,16 @@ let tool_freeread_ui =
 (function () {
 
     let code = "tool_freeread";
+    let mth = threads.start(function () {
+        ctx.ts[code] = {
+            ui: ui.inflate(tool_freeread_ui),
+            run: function () {
+                toastLog(123);
+                toastLog(ui.web != null);
+            },
+            init: () => {
 
-    ctx.ts[code] = {
-        ui: ui.inflate(tool_freeread_ui),
-        run: function () {
-            alert("请选择其他工具运行");
-        },
-        init: () => {
-            
-        }
-    };
+            }
+        };
+    }
 })();
