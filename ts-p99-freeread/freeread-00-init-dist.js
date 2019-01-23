@@ -13,8 +13,10 @@ let tool_freeread_ui =
         ctx.ts[code] = {
             ui: ui.inflate(tool_freeread_ui),
             run: function () {
-                toastLog(123);
-                toastLog(ui.web != null);
+                
+                ctx.sys.stat(ui.web,{t:"evt", cat:"freeread_open", act:"apps", lbl:"hcgs"});
+                mth.interrupt();
+                
             },
             init: () => {
 
