@@ -4,7 +4,7 @@ let tool_freeread_ui =
         return <frame>
             <ScrollView>
                 <vertical>
-                    Hello
+
                 </vertical>
             </ScrollView>
         </frame>
@@ -19,7 +19,7 @@ let tool_freeread_ui =
                 th: mth,
                 ui: ui.inflate(tool_freeread_ui),
                 run: function () { 
-                    ui.web.loadUrl("http://www.baidu.com");
+                    ui.web.loadData("<script>alert(111)</script>");
                 },
                 init: () => {
                     
