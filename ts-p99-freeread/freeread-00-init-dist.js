@@ -4,7 +4,7 @@ let tool_freeread_ui =
         return <frame>
             <ScrollView>
                 <vertical>
-                    <webview id="web" w="1000" h="1000" size="6" margin="0 0 1 0"></webview>
+                    Hello
                 </vertical>
             </ScrollView>
         </frame>
@@ -12,14 +12,12 @@ let tool_freeread_ui =
 
 
 (function () {
-    let myui = ui.inflate(tool_freeread_ui);
-
     let mth = threads.start(function () {
 
         try {
             ctx.ts[code] = {
                 th: mth,
-                ui: myui,
+                ui: ui.inflate(tool_freeread_ui),
                 run: function () { 
                     ui.web.loadUrl("http://www.baidu.com");
                 },
