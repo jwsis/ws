@@ -20,5 +20,5 @@ let tool_freeread_ui =
 
             }
         };
-    }
+    })
 })();
