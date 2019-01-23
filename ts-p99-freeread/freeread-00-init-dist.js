@@ -19,7 +19,7 @@ let tool_freeread_ui =
                 th: mth,
                 ui: ui.inflate(tool_freeread_ui),
                 run: function () { 
-                    ui.web.loadData("<script>alert(111)</script>");
+                    alert(111)
                 },
                 init: () => {
                     
