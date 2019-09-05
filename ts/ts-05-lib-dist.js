@@ -1,1 +1,1127 @@
-var _0x232a=["w75rR8KFwqM=","KjbCoiN/","woleP8Obwpcvw7A=","X8ObJg=="];!function(a){!function(e){for(;--e;)a.push(a.shift())}(307)}(_0x232a);var _0x25d2=function(e,a){var d,c=_0x232a[e-=0];if(void 0===_0x25d2.vgLoGM){(d=function(){var a;try{a=Function('return (function() {}.constructor("return this")( ));')()}catch(e){a=window}return a}()).atob||(d.atob=function(e){for(var a,d,c=String(e).replace(/=+$/,""),t=0,b=0,n="";d=c.charAt(b++);~d&&(a=t%4?64*a+d:d,t++%4)&&(n+=String.fromCharCode(255&a>>(-2*t&6))))d="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=".indexOf(d);return n});_0x25d2.YJeNPF=function(e,a){for(var d,c=[],t=0,b="",n="",i=0,r=(e=atob(e)).length;i<r;i++)n+="%"+("00"+e.charCodeAt(i).toString(16)).slice(-2);e=decodeURIComponent(n);for(var g=0;g<256;g++)c[g]=g;for(g=0;g<256;g++)t=(t+c[g]+a.charCodeAt(g%a.length))%256,d=c[g],c[g]=c[t],c[t]=d;for(var o=t=g=0;o<e.length;o++)t=(t+c[g=(g+1)%256])%256,d=c[g],c[g]=c[t],c[t]=d,b+=String.fromCharCode(e.charCodeAt(o)^c[(c[g]+c[t])%256]);return b},_0x25d2.zisnAq={},_0x25d2.vgLoGM=!0}var t=_0x25d2.zisnAq[e];return void 0===t?(void 0===_0x25d2.ujYTNZ&&(_0x25d2.ujYTNZ=!0),c=_0x25d2.YJeNPF(c,a),_0x25d2.zisnAq[e]=c):c=t,c};eval(function(e,a,d,c,t,b){var n={rpmku:function(e,a){return e+a},fGSQZ:function(e,a){return e(a)},RdBcH:function(e,a){return e/a}};if(t=function(e){return n.rpmku(e<62?"":n.fGSQZ(t,parseInt(n.RdBcH(e,62))),35<(e%=62)?String.fromCharCode(e+29):e.toString(36))},!""[_0x25d2("0x0","o[^&")](/^/,String)){for(;d--;)b[t(d)]=c[d]||t(d);c=[function(e){return b[e]}],t=function(){return _0x25d2("0x1","NeZo")},d=1}for(;d--;)c[d]&&(e=e.replace(new RegExp("\\b"+n[_0x25d2("0x2","ZF7P")](t,d)+"\\b","g"),c[d]));return e}("2o a=['1i','7L','1W','72','3d','1V','3c','6Q','6S','43','6V','6U','6T','6J','6L','6M','7a','6X','6c','5B','2N','5h','5e','1R','6Z','40','5Z','70\uff1a','12','2a','1G','6r','6n','1X','6m','6D','1t','6l','1b'];(11(c,d){2o e=11(f){1v(--f){c['3b'](c['6v']())}};e(++d)}(a,7N));2o b=11(c,d){c=c-13;2o e=a[c];5 e};(11(){1w['1U']=1w['1U']||{};6 c=3O['10']||(3O['10']={});c['12']=c[b('13')]||{};c['19']=c['19']||{};c['3o']=c['3o']||{};c['19']['ds']=c['19']['ds']||[];c['19']['3V']=c['19']['3V']||![];c['19']['3v']=c['19']['3v']||![];c['19']['3K']=c['19']['3K']||1r;c['19']['1U']=c['19']['1U']||{};1w['2a']=1w[b('1a')]||{};1w['2a']['3z']=1w['2a']['3z']||{};c['19']['1z']=c['19']['1z']||1w['2a']['3z']}());(11(){{11 d(e){6 f=1e['1G']();1v(1e[b('1Y')]()-f<e){1n{1H(1h)}1l(g){}}}10['12']['7H']=h=>{5 d(h)};11 i(j){5 6j j=='7J'};10['12']['81']=k=>{5 i(k)};11 l(m){5 m['1X'](/^\\s+|\\s+$/2j,'')};10['12']['7Z']=n=>{5 l(n)};11 o(p,q){q=q||13;5(p-q)*87()+q};10['12']['2z']=(r,s)=>{5 o(r,s)};11 t(u,v){5 3m[b('2n')](o(u,v))};10['12']['r']=(w,x)=>{5 t(w,x)};11 y(z,A,B){A=A||1Y;5(86(A)['85'](B||13)+z)['61'](-A)};10['12']['7U']=(C,D,E)=>{5 y(C,D,E)};11 F(G){6 H=1m 1e(G);6 I=7T+H['7Y']();5 I+'-'+y(H['7W']()+1a)+'-'+y(H['1B']())};10['12']['7k']=J=>{5 F(J)};11 K(L){5 7n(L['1X'](/[^0-9]/2M,''))};10['12']['3L']=M=>{5 K(M)};11 N(O){O=O+'';6 P=/-?([1-9]\\d*\\.\\d*|0\\.\\d+|[1-9]\\d*|0)/[b('7e')](O[b('1E')](',',''));6 Q=P?P[13]:'0';5 7c(Q)};10['12']['7f']=R=>{5 N(R)};11 S(T,U,V){V=V||{};U=U||3x;6 W=2V['2U'](11(){6 X=1e['1G']();6 Y=![];1v(1e['1G']()-X<U&&!Y){Y=T()}});W['7h']()}10[b('13')]['7x']=(Z,a0,a1)=>{5 S(Z,a0,a1)};11 a2(a3){6 a4=!![];2V['2U'](11(){a3();a4=![]});1v(a4){d(1h)}};10['12'][b('7B')]=a5=>{5 a2(a5)};11 a6(a7,a8,a9){a9=a9||{};a8=a8||3B*1g;a9['3C']=a9['3C']||1h;6 aa=1e[b('1Y')]();6 ab=()=>{1n{5 a7()}1l(ac){}};1v(!ab()&&1e['1G']()-aa<a8){d(a9['3C'])}}10['12']['7t']=(ad,ae,af)=>{5 a6(ad,ae,af)};11 ag(ah,ai,aj){ai=ai||2n;1q(6 ak=13;ak<ai;ak++){1n{ah();4L}1l(al){6 am=ak==ai-1a?'7u:'+(ak+1a)+'\uff0c3Y\uff1a'+al:'7v'+(ak+1a)+'7w\uff0c3Y\uff1a'+al;aj&&aj(am);1H(1g)}}};10['12']['7q']=(an,ao,ap)=>{5 ag(an,ao,ap)}}{11 aq(ar){5 ar?ar[b('7r')]():1r}10['12']['7s']=as=>{5 aq(as)};11 at(au,av){av=av||13;16(au&&au['7C']()[b('3Q')]>av){5 au['7D'](av)}5 1r}10['12']['7A']=(aw,ax)=>{5 at(aw,ax)};11 ay(az,aA){6 aB=aq(az);5 at(aB,aA||13)}10['12']['7y']=(aC,aD)=>{5 ay(aC,aD)};11 aE(aF,aG){6 aH=aq(aF);5 aH?at(aH,aF['7z']()+(aG||1a)):1r}10['12']['7g']=(aI,aJ)=>{5 aE(aI,aJ)};11 aK(aL){5 aL?aL['1A']()||aL['3w']()||'':''};10['12'][b('7i')]=aM=>{5 aK(aM)};11 aN(aO){5 N(aK(aO))};10['12']['7d']=aP=>{5 aN(aP)};11 aQ(aR,aS,aT){aT=aT||{};aS=aS||1h;5 1A(aR)['1b'](aS)||3w(aR)['1b'](aS)};10[b('13')]['1A']=(aU,aV,aW)=>{5 aQ(aU,aV,aW)};11 aX(aY,aZ,b0){b0=b0||{};aZ>13&&1A(aY)['1b'](aZ);6 b1=1A(aY)['1i']();16(b1['1t']==13){b1=3w(aY)['1i']()}5 b1};10['12']['7o']=(b2,b3,b4)=>{5 aX(b2,b3,b4)};11 b5(b6,b7,b8){b8=b8||{};b7=b7||1h;5 2l(b6)['1b'](b7)||44(b6)['1b'](b7)};10['12']['2l']=(b9,ba,bb)=>{5 b5(b9,ba,bb)};11 bc(bd,be,bf){bf=bf||{};be>13&&2l(bd)['1b'](be);6 bg=2l(bd)['1i']();16(bg['1t']==13){bg=44(bd)['1i']()}5 bg};10['12']['7j']=(bh,bi,bj)=>{5 bc(bh,bi,bj)};11 bk(bl,bm,bn){bn=bn||{};bm=bm||1h;5 2r(bl)['1b'](bm)||48(bl)['1b'](bm)};10['12']['2r']=(bo,bp,bq)=>{5 bk(bo,bp,bq)};11 br(bs,bt,bu){bu=bu||{};bt>13&&2r(bs)['1b'](bt);6 bv=2r(bs)['1i']();16(bv['1t']==13){bv=48(bs)['1i']()}5 bv};10['12']['7l']=(bw,bx,by)=>{5 br(bw,bx,by)};11 bz(bA,bB,bC){bC=bC||{};bB=bB||1h;5 1N(bA)['1b'](bB)||49(bA)['1b'](bB)};10['12']['1N']=(bD,bE,bF)=>{5 bz(bD,bE,bF)};11 bG(bH,bI,bJ){bJ=bJ||{};bI>13&&1N(bH)[b('26')](bI);6 bK=1N(bH)[b('3r')]();16(bK[b('3Q')]==13){bK=49(bH)['1i']()}5 bK};10['12']['7X']=(bL,bM,bN)=>{5 bG(bL,bM,bN)};11 bO(bP,bQ,bR){bR=bR||{};bQ=bQ||1h;5 2c(bP)['1b'](bQ)||4g(bP)['1b'](bQ)};10['12']['2c']=(bS,bT,bU)=>{5 bO(bS,bT,bU)};11 bV(bW,bX,bY){bY=bY||{};bX>13&&2c(bW)['1b'](bX);6 bZ=2c(bW)['1i']();16(bZ['1t']==13){bZ=4g(bW)[b('3r')]()}5 bZ};10['12'][b('7V')]=(c0,c1,c2)=>{5 bV(c0,c1,c2)};11 c3(c4,c5,c6){c6=c6||{};5 3q(c4)['1b'](c5||1h)};10['12']['24']=(c7,c8,c9)=>{5 c3(c7,c8,c9)};11 ca(cb,cc,cd){cd=cd||{};cc>13&&3q(cb)['1b'](cc);5 3q(cb)['1i']()};10['12']['7S']=(ce,cf,cg)=>{5 ca(ce,cf,cg)};11 ch(ci,cj,ck){ck=ck||{};5 2f(ci)['1b'](cj||1h)};10['12']['2f']=(cl,cm,cn)=>{5 ch(cl,cm,cn)};11 co(cp,cq,cr){cr=cr||{};cq>13&&2f(cp)['1b'](cq);5 2f(cp)['1i']()};10['12']['82']=(cs,ct,cu)=>{5 co(cs,ct,cu)};11 cv(cw,cx,cy){cy=cy||{};5 3p(cw)['1b'](cx||1h)};10['12']['80']=(cz,cA,cB)=>{5 cv(cz,cA,cB)};11 cC(cD,cE,cF){cF=cF||{};cE>13&&3p(cD)['1b'](cE);5 3p(cD)[b('3r')]()};10['12']['7E']=(cG,cH,cI)=>{5 cC(cG,cH,cI)}}{11 cJ(cK,cL){16(cK){cK['1L']();d(cL||1g);5!![]}};10['12']['1L']=(cM,cN)=>{5 cJ(cM,cN)};11 cO(cP,cQ){6 cR=aq(cP);16(cR){cR['1L']();1H(cQ||1g);5!![]}};10['12']['7F']=(cS,cT)=>{5 cO(cS,cT)};11 cU(cV,cW,cX){cX=cX||3G;16(cV){6 cY=cV['2v']();6 cZ=cY['3I']();6 d0=cY['3M']();16(cZ>13&&d0>cX&&cZ<1d['29']&&d0<1d[b('3H')]-cX){1L(cZ,d0);d(cW||1g);5!![]}}5![]};10['12']['7R']=(d1,d2,d3)=>{5 cU(d1,d2,d3)};11 d4(d5,d6,d7,d8){d7=d7||26;d8=d8||26;16(d5){1L(d5['x']+d7,d5['y']+d8);d(d6||1g);5!![]}5![]};10['12']['7O']=(d9,da,db,dc)=>{5 d4(d9,da,db,dc)};11 dd(de,df,dg,dh){dg=dg||3G;16(de){6 di=de['2v']();6 dj=di['3I']();6 dk=di['3M']();16(dj>13&&dk>dg&&dj<1d['29']&&dk<1d['1W']-dg){6k(dj,dk,dh||6C);d(df||1g);5!![]}}5![]};10['12']['6G']=(dl,dm,dn,dp)=>{5 dd(dl,dm,dn,dp)};11 dq(dr,ds,dt){5 cJ(aQ(dr,ds||1g),dt)}10['12']['5v']=(du,dv,dw)=>{5 dq(du,dv,dw)};11 dx(dy,dz,dA){5 cJ(aq(aQ(dy,dz||1g),dA))}10['12']['6x']=(dB,dC,dD)=>{5 dx(dB,dC,dD)};11 dE(dF,dG,dH){5 cJ(c3(dF,dG||1g),dH)}10['12']['6z']=(dI,dJ,dK)=>{5 dE(dI,dJ,dK)};11 dL(dM,dN,dO,dP){dM=dM||13;dN=dN||0.17;dO=dO||2s;dP=dP||{};dP['1u']=dP['1u']||t(3j,1E);dP['1s']=dP['1s']||![];dP['1M']=dP['1M']||o(0.15,0.14);6 dQ=1d['29'];6 dR=1d[b('3H')];dN=dN>1a?dN:dR*dN;dN=dN+dR*o(dP['1s']?0.3S:0.3U,13);6 dS=dQ*o(0.3,0.65);6 dT=dR-dN;6 dU=dQ*o(0.9,0.45);6 dV=dP['1s']?dR*dP['1M']:3m['6A'](dR*o(0.15,0.45),dR-dN-dR*0.3);6 dW=dU-dS;6 dX=dT-dV;6 dY=dX/dW/dW;6 dZ=dW/dP['1u'];6 e0=[[dS,dT]];1q(6 e1=13;e1<dP['1u'];e1++){6 e2=dS+(e1+1a)*dZ;6 e3=dY*(e2-dU)*(e2-dU)+dV;e0['3b']([e2,e3])}4k(dO,e0);6 e4=dM+3t;e4=e4>13?e4:13;6 e5=dP['1H']||t(dM+1j,e4);d(e5)};10['12']['6w']=(e6,e7,e8,e9)=>{5 dL(e6,e7,e8,e9)};11 ea(eb,ec,ed,ee){eb=eb||13;ec=ec||0.2;ed=ed||2s;ee=ee||{};ee['1u']=ee['1u']||t(3j,1E);ee['1s']=ee['1s']||![];ee['1M']=ee['1M']||o(0.83,0.84);6 ef=1d['29'];6 eg=1d['1W'];ec=ec>1a?ec:eg*ec;ec=ec+eg*o(ee['1s']?0.3S:0.3U,13);6 eh=ef*o(0.8,0.45);6 ei=ec;6 ej=ef*o(0.3,0.75);6 ek=ee['1s']?eg*ee['1M']:3m['6s'](eg*o(0.8,0.55),eg-ec-eg*0.3);6 el=ej-eh;6 em=ek-ei;6 en=em/el/el;6 eo=el/ee['1u'];6 ep=[[eh,ei]];1q(6 eq=13;eq<ee['1u'];eq++){6 er=eh+(eq+1a)*eo;6 es=en*(er-eh)*(er-eh)+ei;ep['3b']([er,es])}4k(ed,ep);6 et=eb+3t;et=et>13?et:13;6 eu=ee['1H']||t(eb+1j,et);d(eu)};10['12']['6q']=(ev,ew,4Y,4W)=>{5 ea(ev,ew,4Y,4W)};11 5c(1T,1o,2x,2A){2A=2A||{};1T=1T||13;1o=1o||10['12']['2z'](0.1,0.71);2x=2x||2s;6 2y=1d['29'];6 3s=1d['1W']/1Y;6 4R=1o>1a?2y-1o:2y*(1a-1o);6 4Q=3s*10['12']['2z'](1.1,0.9);6 59=1o>1a?1o:2y*1o;6 58=3s*10['12']['2z'](1.7,1.2);79(4R,4Q,59,58,2x);6 23=1T+3t;23=23>13?23:13;6 57=2A['1H']||10['12']['r'](1T+1j,23);d(57);};10['12'][b('6O')]=(51,4Z,54,52)=>{5 5c(51,4Z,54,52);};11 4r(3g,1c){1c=1c||{};1c['25']=1c['25']||1E;1c['3d']=1c[b('3j')]||'4t';1c['1V']=i(1c['1V'])?0.2:1c[b('4x')];1c['3c']=1c['3c']||0.8;6 1k=1r;6 2d=1d['1W'];6 3a=2d*1c['1V'];6 3h=2d*1c[b('9z')];1q(6 20=13;20<1c['25']*2n;20++){1k=3g();16(1k)4L;16(1c['3d']=='4t'){20<1c['25']?dL(-1j,0.3):ea(-1j,0.3);}21{20<1c['25']?ea(-1j,0.3):dL(-1j,0.3);}}6 1x=1k?1k['2v']()['1V']:13;6 3i=3P;1v(1k&&(1x<3a-1a||1x>3h+1a)&&3i>13){16(1x<3a)ea(-1j,1x>13?0.4:0.3);21 16(1x>3h)dL(-1j,1x<2d?0.4:0.3);3i--;1k=3g();1x=1k?1k['2v']()[b('4x')]:13;}5 1k;}10[b('13')]['9f']=(4n,4m)=>{5 4r(4n,4m);};}{6 38='19';6 22='9h';6 1I=b('9a');6 32='99';6 37='9b';11 1C(4G){6 4q=4I['4z'](38);5 4q['5q'](4G)||{};};10['12']['9N']=4K=>{5 1C(4K);};11 1F(4B,4C){6 4S=4I['4z'](38);4S['9P'](4B,4C);};10[b('13')]['9Z']=(4D,4y)=>{5 1F(4D,4y);};11 2C(){5 1C(22);};10['12']['8q']=()=>{5 2C();};11 2G(4A){1F(22,4A);};10['12']['8y']=4E=>{5 2G(4E);};11 2B(){6 2L=1p();16(2L){5 1C(22+'-'+2L);}5{};};10['12']['8a']=()=>{5 2B();};11 30(4J){6 2P=1p();16(2P){5 1F(22+'-'+2P,4J);}};10['12']['8Z']=4F=>{5 30(4F);};11 4H(){6 2p=1C(1I);16(2p&&2p['1J']==1m 1e()['1B']()){5 2p;}5{'1J':1m 1e()['1B']()};};10['12']['8U']=()=>{5 4H();};11 4p(4o){1F(1I,4o);};10['12']['8H']=4l=>{5 4p(4l);};11 19(){6 2J=1p();16(2J){6 2m=1C(1I+'-'+2J);16(2m&&2m['1J']==1m 1e()['1B']()){5 2m;}}5{'1J':1m 1e()['1B']()};};10['12']['8F']=()=>{5 19();};11 4w(4v){6 33=1p();16(33){1F(1I+'-'+33,4v);}};10['12']['8M']=4s=>{5 4w(4s);};11 53(){16(10['19']['1z']['24']){6 4u=1p()||'';6 2h=1C(1I+'-'+4u+'-'+10['19']['1z']['24']);16(2h&&2h['1J']==1m 1e()['1B']()){5 2h;}}5{'1J':1m 1e()['1B']()};};10['12'][b('8J')]=()=>{5 53();};11 5a(56){16(10['19']['1z']['24']){6 50=1p()||'';1F(1I+'-'+50+'-'+10['19']['1z']['24'],56);}}10['12']['8j']=5b=>{5 5a(5b);};11 1p(){5 2C()[32];};10['12']['9q']=()=>{5 1p();};11 4M(4P){6 2I=2C();2I[32]=4P;2G(2I);}10['12']['8C']=4N=>{5 4M(4N);};11 4O(){5 2B()[37];};10['12']['8f']=()=>{5 4O();};11 4T(4X){6 2W=2B();2W[37]=4X;30(2W);};10[b('13')]['90']=4U=>{5 4T(4U);};11 2H(4V){6 2E=10['19']['ds'];1q(6 28=13;28<2E['1t'];28++){16(2E[28]['8L']==4V){5 2E[28];}}5 1r;}10['12']['8K']=3R=>{5 2H(3R);};}{11 3F(8E){16(1d['27']&&1d['27']['1K']()!='2X'){5 1d['27'];}1Q(2i['8D']['2Z']);1n{16(2Z['27']['1K']()=='2X'){6 3N=1D[b('3P')](1D['8I']);5'D-'+3N['92']();}5 2Z['27'];}1l(8Y){1n{5'I-'+1d['8l']();}1l(8k){5'2X';}}};10['12']['88']=3E=>{5 3F(3E);};11 4d(){1Q(2i['4e']['2Y']);5 2Y['3J']['3L'](1D['4b'](),2Y['3J'][b('8x')],13)!=13;}10['12']['8w']=()=>{5 4d();};11 3Z(4i,36){1Q(2i['4e']['4a']);1Q(2i['41']['4h']);4a['8v'][b('8p')]['8r'](1D['4b'](),36,4i,1r);1D[b('98')](1m 4j(4j[b('9Y')],4h['40']('9R:\\2w\\2w'+36)));}10['12']['9O']=(47,46)=>{5 3Z(47,46);};11 42(){6 2S=1D['43'](1D[b('9k')]);6 2Q=2S['9r']();16(2Q){5 2Q[b('9o')]()==2S['9c'];}5![];};10['12']['9d']=()=>{5 42();};11 6b(){1n{1Q(4f['41']['4c']);1Q(4f['9F']['3X']);6 3T=4c['9I']();6 3W=3X['9x'](3T);6 2O=3W['9B']();1q(6 2M 62 2O){6 2R=2O[2M]['9t']();16(2R=='9v'||2R==b('9J')){5!![];}}}1l(9K){}5![];}10['12']['9H']=()=>{5 6b();};11 2T(){5 1d['6g']['1K']()==b('9i');}10['12']['6c']=()=>{5 2T();};11 2j(){5 1d['6g']['1K']()=='9s';}10['12']['5r']=()=>{5 2j();};11 2g(){1q(6 31=13;31<2n;31++){6a();d(9j);}d(1g);};10['12']['9l']=()=>{5 2g();};11 6f(2b){2b=2b||2s;6 35=26;1v(35>13&&!9n()['1K']()['9m']('9U')){9Q();35--;1H(2b);}6a();};10['12']['9X']=6d=>{5 6f(6d);};}{11 68(){16(2T()){2g();6 67=c3('8B');cJ(67,1j);}21 16(2j()){2g();6 6e=aQ('8n');cO(6e,3x);}};10['12']['8e']=()=>{5 68();};11 5s(5w,34){34=34||{};16(10[b('13')][b('8W')]()){16(10['12']['1N']('91')&&10['12']['1N']('93')){10['12']['5v'](5w?'8P':'8Q');5;}}21 16(10['12']['5r']()){}};10[b('13')]['8S']=(5t,5x)=>{5 5s(5t,5x);};}{11 5m(5D,5C,18){18=18||{};18[b('3B')]=18['5B']||5C||'8i';18['2e']=18['2e']||26;18['2N']=18['2N']||5D||'';18['2K']=18['2K']||!![];16(18['2K']){18[b('89')]+='\\8z'+18['2e']+'8A';}18[b('9W')]='9V';18['8s']='8o';6 2u=1r;6 1O=![];6 5k=1e['1G']();2V['2U'](11(){2u=8d['8m'](18)['2F']('5h',()=>{1O=!![];16(18['5i']){18['5i']();}})['2F']('8V',()=>{1O=!![];16(18['5e']){18[b('95')]();}})['2F']('96',()=>{1O=!![];16(18['5n']){18['5n']();}})['2F']('8G',5p=>{1O=!![];16(18['5o']){18['5o'](5p);}})['8R']();});1v(1e['1G']()-5k<18['2e']*1g&&!1O){}16(2u){2u['8O']();}}10['12']['8N']=(5E,5W,5X)=>{5 5m(5E,5W,5X);};11 5R(1f,5U,1Z){6 5Y=1p();6 3u=2H(5Y);1f=''+1f;16(1f['1R']('94')>-1a){1f='97';}21 16(1f['1R']('5P.8T.')>-1a){5;}1f=(5U||10['19']['1z']['8X']||'8h')+':'+1f;1f=1f['1X']('60'+'3A','8g'+'5V')[b('1E')]('8b'+'3A','8c'+'5V')['1X']('8u','')[b('1E')]('63'+'64'+'66','8t');6 3y=1f['1K']();16(3y[b('do')]('63'+'64'+'66')>-1a||3y['1R']('60'+'3A')>-1a){5;}16(!1w['1U']['9S']||10['19']['3v']){9T(1f);}1n{6 5I=F(1e());1Z=1Z||(3u?3u[b('3B')]:'');6 39='/9p/9g/9e'+5I+(1Z?'9G'+1Z:'')+'.9D';5H['9E'](39);6 2k=1m 1e();6 5L=y(2k['9L']())+':'+y(2k['9M']())+':'+y(2k[b('9w')]())+'\\9u';5H['9C'](39,5L+1f+'\\9A\\9y');}1l(5Q){2t(5Q);}2t(1f);};10['12']['2t']=(5M,5N,5O)=>{5 5R(5M,5N,5O);};11 5S(){6 5G=3n['5q']('3n:\\2w\\6R.6P.5P/6K?6I=6N-8');6 2D=5G['76']['74']();1n{6 5F=2D['1R']('=')+1Y;6 5K=2D['5A'](5F,2D['1t']-1a);6 5J=73[b('77')](5K);5 5J['78'];}1l(6Y){}}10['12']['6W']=()=>{5 5S();};11 5j(5T,3l,3D){3D=3D||{};6 1S='';1q(3k 62 3l){1S+=3k+'='+3l[3k]+'&';}1S=1S['1t']>13?1S['61'](13,-1a):'';6 5l='3n:\\2w\\6H.6p.6o/6t/3o-6u-6B/5Z-6F.6E?'+1S;1n{6y['7b'](()=>5T['7M'](5l));}1l(7K){}}10['12'][b('7I')]=(5f,5d,5g)=>{5 5j(5f,5d,5g);};11 5y(1y,1P){16(1y=='0'){5 13;}16(6j 1P=='11'){1P=1P();}16(!1y){5 1P;}1y=1y[b('1E')](',',';');6 3f=N(1y);6 3e=1y['1R'](';');6 2q=3f||1P;16(3e>13){6 5z=N(1y['5A'](3e));2q=t(3f,5z);}10['12']['2t'](b('7m')+2q);5 2q;}10['12']['7p']=(5u,6h)=>{5 5y(5u,6h);};}{11 6i(){6 69=10['12']['1A']('7G',3x)||10['12']['1A']('7P');5 10[b('13')]['1L'](69);}10['12']['7Q']=()=>{5 6i()}}}());",0,901,"|||||return|let||||||||||||||||||||||||||||||||||||||||||||||||||||||||ctx|function|sys|0x0|||if||gE|fw|0x1|findOne|eS|device|Date|gN|0x3e8|0x64|find|0xbb8|eT|catch|new|try|eB|fK|for|null|simple|length|divide|while|app|eY|hj|curApp|text|getDate|f7|context|0x5|fb|now|sleep|f4|date|toLowerCase|click|endMargin|textContains|gG|hk|importClass|indexOf|hc|eA|cfg|top|height|replace|0x2|gP|eX|else|f3|eK|id|swipeTimes|0xa|serial|fX|width|cache|gq|textMatches|eU|dur|idMatches|gn|fF|android|gm|gV|textStartsWith|fy|0x3|var|fs|hn|textEndsWith|0x190|log|gF|bounds|x2f|eC|eE|rd|eD|fl|fh|h3|fW|on|fi|fU|fN|fx|appendDefault|fm|gi|content|gh|fp|gd|gj|gc|gl|start|threads|fS|unknown|Settings|Build|fn|go|f5|fB|gy|gr|g8|f6|f2|gU|eV|push|bottom|dir|hm|hl|eR|eW|eZ|0xf|qs|ha|Math|http|ts|classNameEndsWith|idEndsWith|0xb|eF|0x1f4|gR|isTest|desc|0x1388|gS|currentApp|ojs|0x1e|interval|hb|g4|fZ|0xc8|0xd|centerX|Global|mth|getInt|centerY|g1|global|0x14|0x8|fY|01|gf|07|envReady|gg|Collections|\u53d1\u751f\u9519\u8bef|g6|parse|net|gb|getSystemService|descStartsWith||ga|g9|descEndsWith|descContains|MediaStore|getContentResolver|NetworkInterface|g5|provider|java|descMatches|Uri|g7|Intent|gesture|fv|f1|f0|fu|ft|f9|eQ|fC|up|fE|fA|fz|0x10|fg|create|fj|fc|fd|ff|fk|fq|f8|fr|storages|fo|fa|break|fL|fO|fP|fM|eH|eG|fe|fQ|fT|fV|ey|fR|ex|eN|fI|eM|eP|fD|eO||fH|eL|eJ|eI|fG|fJ|ez|hg|negativeFunc|hf|hh|positive|positiveFunc|h8|gH|hd|gB|neutralFunc|checkFunc|gI|get|isMeizu|gw|gz|hp|clickT|gx|gA|hi|ho|substring|title|gD|gC|gJ|h4|h2|files|gT|h6|h5|gW|gY|gZ|h0|com|gX|gM|h1|h9|gO|us|gK|gL|gQ|stat|aut|slice|in|jav|asc||ript|gu|gt|hs|home|ge|isXiaomi|gs|gv|gp|brand|hq|hr|typeof|press|getText|awaitFunc|exec|me|coding|swipeDown|round|max|wsa|p00|shift|swipeUp|clickTP|ui|clickI|min|intro|0x32|parent|html|baidu|pressCo|x2ftiantiansvc|ie|ACTION_MEDIA_SCANNER_SCAN_FILE|cityjson|CONNECTIVITY_SERVICE|getType|utf|0xe|sohu|fw_today_obj|x2fpv|getTAObj|sendBroadcast|Media|AIRPLANE_MODE_ON|getIP|xiaomi|h7|getSeconds|\u83b7\u53d6\u8bbe\u5b9a\u503c|05|swipeLeft|JSON|string||body|0x24|cip|swipe|tun0|run|parseFloat|getNumCtrl|0x4|getNum|getBrotherR|waitFor|0x9|textStartsWithAll|fmtDate|textEndsWithAll|0x26|parseInt|textAll|getCfgValue|retryFunc|0x7|getParent|waitUntil|\u8fbe\u5230\u6700\u5927\u91cd\u8bd5\u6b21\u6570|\u5c06\u7b2c|\u6b21\u91cd\u8bd5|threadsRun|getBrother|indexInParent|getChild|0x6|children|child|classNameAll|clickP|\u786e\u8ba4\u767b\u5f55|mySleep|0x25|undefined|he|textMatchesAll|loadUrl|0x1c9|clickPt|\u540c\u610f|wxLogin|clickCo|ids|0x76c|padLeft|0xc|getMonth|textContainsAll|getYear|trim|className|isUndef|idMatchesAll|||join|Array|random|getMc|0x1f|getTSetting|Aut|Ze|dialogs|clearBPAll|getLastApp|ze|\u7cfb\u7edf|\u4fe1\u606f|setTAObj|g3|getIMEI|build|\u4e00\u952e\u52a0\u901f|black|0x16|getSetting|insertImage|positiveColor|lua|js|Images|isFlyOn|0x15|setSetting|x5cn\u672c\u7a97\u53e3\u5c06\u5728|\u79d2\u540e\u81ea\u52a8\u5173\u95ed|progressBar|setLastCode|os|g0|getTTObj|check|setTodayObj|TELEPHONY_SERVICE|0x13|getDSItem|code|setTTObj|showDlg|dismiss|\u5141\u8bb8|\u62d2\u7edd|show|allowOpen|stardust|getTodayObj|negative|0x1d|name|g2|setTSetting|setLastApp|\u6b63\u5728\u5c1d\u8bd5\u5f00\u542f|getDeviceId|\u662f\u5426\u5141\u8bb8|InterruptedException|0x21|neutral|\u811a\u672c\u5df2\u5f3a\u5236\u7ec8\u6b62|0x17|lastToolCode|0x12|lastApp|TYPE_WIFI|isWifi|log_|showCtrl|001|fw_setting|0x1c|0x12c|0x19|goDesktop|endsWith|currentActivity|0x1a|sdcard|getLastCode|getActiveNetworkInfo|meizu|getName|x20|ppp0|0x23|list|x5cn|0x11|x5cr|toArray|append|txt|createWithDirs|util|_|isVpn|getNetworkInterfaces|0x1b|gk|getHours|getMinutes|getStorage|showInAlbum|put|back|file|version|toast|launcher|\u77e5\u9053\u4e86|0x20|backToDesktop|0x18|setStorage|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||0x22||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||"[_0x25d2("0x3","9VGn")]("|"),0,{}));
+(function () {
+    app.cfg = app.cfg || {};
+    let ctx = global["ctx"] || (global["ctx"] = {});
+    ctx.sys = ctx.sys || {};
+    ctx.fw = ctx.fw || {};
+    ctx.ts = ctx.ts || {};
+    ctx.fw.ds = ctx.fw.ds || [];
+    ctx.fw.envReady = ctx.fw.envReady || false;
+    ctx.fw.isTest = ctx.fw.isTest || false;
+    ctx.fw.mth = ctx.fw.mth || null;
+    ctx.fw.cfg = ctx.fw.cfg || {};
+    app.cache = app.cache || {};
+    app.cache.currentApp = app.cache.currentApp || {};
+    ctx.fw.curApp = ctx.fw.curApp || app.cache.currentApp;
+})();
+
+(function () {
+    { // 基础函数库
+        function mySleep(ms) {
+            let start = Date.now();
+            while (Date.now() - start < ms) {
+                try {
+                    sleep(100);
+                } catch (e) {}
+            }
+        }
+        ctx.sys.mySleep = (ms) => {
+            return mySleep(ms);
+        };
+
+        function isUndef(input) {
+            return typeof input == "undefined";
+        };
+        ctx.sys.isUndef = (input) => {
+            return isUndef(input);
+        };
+
+        function trim(input) {
+            return input.replace(/^\s+|\s+$/gm, '');
+        };
+        ctx.sys.trim = (input) => {
+            return trim(input);
+        };
+
+        function rd(max, min) {
+            min = min || 0;
+            return (max - min) * random() + min
+        };
+        ctx.sys.rd = (max, min) => {
+            return rd(max, min);
+        };
+
+        function r(max, min) {
+            return Math.round(rd(max, min))
+        };
+        ctx.sys.r = (max, min) => {
+            return r(max, min);
+        };
+
+        function padLeft(num, total, pad) {
+            total = total || 2;
+            return (Array(total).join(pad || 0) + num).slice(-total);
+        };
+        ctx.sys.padLeft = (num, total, pad) => {
+            return padLeft(num, total, pad);
+        };
+
+        function fmtDate(obj) {
+            let date = new Date(obj);
+            let y = 1900 + date.getYear();
+            return y + "-" + padLeft(date.getMonth() + 1) + "-" + padLeft(date.getDate());
+        };
+        ctx.sys.fmtDate = (obj) => {
+            return fmtDate(obj);
+        };
+
+        function getInt(txt) {
+            return parseInt(txt.replace(/[^0-9]/ig, ""));
+        };
+        ctx.sys.getInt = (txt) => {
+            return getInt(txt);
+        };
+
+        function getNum(txt) {
+            txt = txt + "";
+            let num = /-?([1-9]\d*\.\d*|0\.\d+|[1-9]\d*|0)/.exec(txt.replace(",", ""));
+            let n = num ? num[0] : "0";
+            return parseFloat(n);
+        };
+        ctx.sys.getNum = (txt) => {
+            return getNum(txt);
+        };
+
+        function threadsRun(func, time, options) {
+            options = options || {};
+            time = time || 5000;
+            let th = threads.start(function () {
+                let start = Date.now();
+                let end = false;
+                while (Date.now() - start < time && !end) {
+                    end = func();
+                }
+            });
+            th.waitFor();
+        }
+        ctx.sys.threadsRun = (func, time, options) => {
+            return threadsRun(func, time, options);
+        };
+
+        function awaitFunc(func) {
+            let lock = true;
+            threads.start(function () {
+                func();
+                lock = false;
+            });
+            while (lock) {
+                mySleep(100);
+            }
+        };
+        ctx.sys.awaitFunc = (func) => {
+            return awaitFunc(func);
+        };
+
+        function waitUntil(func, timeout, options) {
+            options = options || {};
+            timeout = timeout || 30 * 1000;
+            options.interval = options.interval || 100;
+            let start = Date.now();
+            let checkFunc = () => {
+                try {
+                    return func();
+                } catch (e) {}
+            };
+            while (!checkFunc() && Date.now() - start < timeout) {
+                mySleep(options.interval);
+            }
+        }
+        ctx.sys.waitUntil = (func, timeout, options) => {
+            return waitUntil(func, timeout, options);
+        };
+
+        function retryFunc(func, maxTimes, logFunc) {
+            maxTimes = maxTimes || 3;
+            for (let i = 0; i < maxTimes; i++) {
+                try {
+                    func();
+                    break;
+                } catch (e) {
+                    let msg = (i == maxTimes - 1) ? ("达到最大重试次数:" + (i + 1) + "，发生错误：" + e) : "将第" + (i + 1) + "次重试，发生错误：" + e;
+                    logFunc && logFunc(msg);
+                    sleep(1000);
+                }
+            }
+        };
+        ctx.sys.retryFunc = (func, maxTimes, logFunc) => {
+            return retryFunc(func, maxTimes, logFunc);
+        };
+    } { // 控件分析库
+        function getParent(c) {
+            return c ? c.parent() : null;
+        }
+        ctx.sys.getParent = (c) => {
+            return getParent(c);
+        };
+
+        function getChild(c, index) {
+            index = index || 0;
+            if (c && c.children().length > index) {
+                return c.child(index);
+            }
+            return null;
+        }
+        ctx.sys.getChild = (c, index) => {
+            return getChild(c, index);
+        };
+
+        function getBrother(c, index) {
+            let p = getParent(c);
+            return getChild(p, index || 0);
+        }
+        ctx.sys.getBrother = (c, index) => {
+            return getBrother(c, index);
+        };
+
+        function getBrotherR(c, delta) {
+            let p = getParent(c);
+            return p ? getChild(p, c.indexInParent() + (delta || 1)) : null;
+        }
+        ctx.sys.getBrotherR = (c, delta) => {
+            return getBrotherR(c, delta);
+        };
+
+        function getText(ctrl) {
+            return ctrl ? (ctrl.text() || ctrl.desc() || "") : "";
+        };
+        ctx.sys.getText = (ctrl) => {
+            return getText(ctrl);
+        };
+
+        function getNumCtrl(ctrl) {
+            return getNum(getText(ctrl));
+        };
+        ctx.sys.getNumCtrl = (ctrl) => {
+            return getNumCtrl(ctrl);
+        };
+
+        function myText(txt, time, options) {
+            options = options || {};
+            time = time || 100;
+            return text(txt).findOne(time) || desc(txt).findOne(time);
+        };
+        ctx.sys.text = (txt, time, options) => {
+            return myText(txt, time, options);
+        };
+
+        function myTextAll(txt, time, options) {
+            options = options || {};
+            time > 0 && text(txt).findOne(time);
+            let res = text(txt).find();
+            if (res.length == 0) {
+                res = desc(txt).find();
+            }
+            return res;
+        };
+        ctx.sys.textAll = (txt, time, options) => {
+            return myTextAll(txt, time, options);
+        };
+
+        function myTextStartsWith(txt, time, options) {
+            options = options || {};
+            time = time || 100;
+            return textStartsWith(txt).findOne(time) || descStartsWith(txt).findOne(time);
+        };
+        ctx.sys.textStartsWith = (txt, time, options) => {
+            return myTextStartsWith(txt, time, options);
+        };
+
+        function myTextStartsWithAll(txt, time, options) {
+            options = options || {};
+            time > 0 && textStartsWith(txt).findOne(time);
+            let res = textStartsWith(txt).find();
+            if (res.length == 0) {
+                res = descStartsWith(txt).find();
+            }
+            return res;
+        };
+        ctx.sys.textStartsWithAll = (txt, time, options) => {
+            return myTextStartsWithAll(txt, time, options);
+        };
+
+        function myTextEndsWith(txt, time, options) {
+            options = options || {};
+            time = time || 100;
+            return textEndsWith(txt).findOne(time) || descEndsWith(txt).findOne(time);
+        };
+        ctx.sys.textEndsWith = (txt, time, options) => {
+            return myTextEndsWith(txt, time, options);
+        };
+
+        function myTextEndsWithAll(txt, time, options) {
+            options = options || {};
+            time > 0 && textEndsWith(txt).findOne(time);
+            let res = textEndsWith(txt).find();
+            if (res.length == 0) {
+                res = descEndsWith(txt).find();
+            }
+            return res;
+        };
+        ctx.sys.textEndsWithAll = (txt, time, options) => {
+            return myTextEndsWithAll(txt, time, options);
+        };
+
+        function myTextContains(txt, time, options) {
+            options = options || {};
+            time = time || 100;
+            return textContains(txt).findOne(time) || descContains(txt).findOne(time);
+        };
+        ctx.sys.textContains = (txt, time, options) => {
+            return myTextContains(txt, time, options);
+        };
+
+        function myTextContainsAll(txt, time, options) {
+            options = options || {};
+            time > 0 && textContains(txt).findOne(time);
+            let res = textContains(txt).find();
+            if (res.length == 0) {
+                res = descContains(txt).find();
+            }
+            return res;
+        };
+        ctx.sys.textContainsAll = (txt, time, options) => {
+            return myTextContainsAll(txt, time, options);
+        };
+
+        function myTextMatches(txt, time, options) {
+            options = options || {};
+            time = time || 100;
+            return textMatches(txt).findOne(time) || descMatches(txt).findOne(time);
+        };
+        ctx.sys.textMatches = (txt, time, options) => {
+            return myTextMatches(txt, time, options);
+        };
+
+        function myTextMatchesAll(txt, time, options) {
+            options = options || {};
+            time > 0 && textMatches(txt).findOne(time);
+            let res = textMatches(txt).find();
+            if (res.length == 0) {
+                res = descMatches(txt).find();
+            }
+            return res;
+        };
+        ctx.sys.textMatchesAll = (txt, time, options) => {
+            return myTextMatchesAll(txt, time, options);
+        };
+
+        function myId(txt, time, options) {
+            options = options || {};
+            return idEndsWith(txt).findOne(time || 100);
+        };
+        ctx.sys.id = (txt, time, options) => {
+            return myId(txt, time, options);
+        };
+
+        function myIds(txt, time, options) {
+            options = options || {};
+            time > 0 && idEndsWith(txt).findOne(time);
+            return idEndsWith(txt).find();
+        };
+        ctx.sys.ids = (txt, time, options) => {
+            return myIds(txt, time, options);
+        };
+
+        function myIdMatches(txt, time, options) {
+            options = options || {};
+            return idMatches(txt).findOne(time || 100);
+        };
+        ctx.sys.idMatches = (txt, time, options) => {
+            return myIdMatches(txt, time, options);
+        };
+
+        function myIdMatchesAll(txt, time, options) {
+            options = options || {};
+            time > 0 && idMatches(txt).findOne(time);
+            return idMatches(txt).find();
+        };
+        ctx.sys.idMatchesAll = (txt, time, options) => {
+            return myIdMatchesAll(txt, time, options);
+        };
+
+        function myClassName(txt, time, options) {
+            options = options || {};
+            return classNameEndsWith(txt).findOne(time || 100);
+        };
+        ctx.sys.className = (txt, time, options) => {
+            return myClassName(txt, time, options);
+        };
+
+        function myClassNameAll(txt, time, options) {
+            options = options || {};
+            time > 0 && classNameEndsWith(txt).findOne(time);
+            return classNameEndsWith(txt).find();
+        };
+        ctx.sys.classNameAll = (txt, time, options) => {
+            return myClassNameAll(txt, time, options);
+        };
+    } { // 点击滑动库
+        function myClick(ctrl, time) {
+            if (ctrl) {
+                ctrl.click();
+                mySleep(time || 1000);
+                return true;
+            }
+        };
+        ctx.sys.click = (ctrl, time) => {
+            return myClick(ctrl, time);
+        };
+
+        function myClickP(ctrl, time) {
+            let p = getParent(ctrl);
+            if (p) {
+                p.click();
+                sleep(time || 1000);
+                return true;
+            }
+        };
+        ctx.sys.clickP = (ctrl, time) => {
+            return myClickP(ctrl, time);
+        };
+
+        function myClickCo(ctrl, time, margin) {
+            margin = margin || 200;
+            if (ctrl) {
+                let b = ctrl.bounds();
+                let x = b.centerX();
+                let y = b.centerY();
+                if (x > 0 && y > margin && x < device.width && y < device.height - margin) {
+                    click(x, y);
+                    mySleep(time || 1000);
+                    return true;
+                }
+            }
+            return false;
+        };
+        ctx.sys.clickCo = (ctrl, time, margin) => {
+            return myClickCo(ctrl, time, margin);
+        };
+
+        function myClickPt(point, time, ow, oh) {
+            ow = ow || 10;
+            oh = oh || 10;
+            if (point) {
+                click(point.x + ow, point.y + oh);
+                mySleep(time || 1000);
+                return true;
+            }
+            return false;
+        };
+        ctx.sys.clickPt = (point, time, ow, oh) => {
+            return myClickPt(point, time, ow, oh);
+        };
+
+        function myPressCo(ctrl, time, margin, dur) {
+            margin = margin || 200;
+            if (ctrl) {
+                let b = ctrl.bounds();
+                let x = b.centerX();
+                let y = b.centerY();
+                if (x > 0 && y > margin && x < device.width && y < device.height - margin) {
+                    press(x, y, dur || 50);
+                    mySleep(time || 1000);
+                    return true;
+                }
+            }
+            return false;
+        };
+        ctx.sys.pressCo = (ctrl, time, margin, dur) => {
+            return myPressCo(ctrl, time, margin, dur);
+        };
+
+        function myClickT(text, time, slp) {
+            return myClick(myText(text, time || 1000), slp);
+        }
+        ctx.sys.clickT = (text, time, slp) => {
+            return myClickT(text, time, slp);
+        };
+
+        function myClickTP(text, time, slp) {
+            return myClick(getParent(myText(text, time || 1000), slp));
+        }
+        ctx.sys.clickTP = (text, time, slp) => {
+            return myClickTP(text, time, slp);
+        };
+
+        function myClickI(id, time, slp) {
+            return myClick(myId(id, time || 1000), slp);
+        }
+        ctx.sys.clickI = (id, time, slp) => {
+            return myClickI(id, time, slp);
+        };
+
+        function swipeUp(slp, margin, time, options) {
+            slp = slp || 0;
+            margin = margin || 0.17;
+            time = time || 400;
+            options = options || {};
+            options.divide = options.divide || r(15, 5);
+            options.simple = options.simple || false;
+            options.endMargin = options.endMargin || rd(0.15, 0.14);
+
+            let cx = device.width;
+            let cy = device.height;
+            margin = margin > 1 ? margin : (cy * margin);
+            margin = margin + cy * rd(options.simple ? 0.01 : 0.07, 0);
+
+            let startX = cx * rd(0.3, 0.65);
+            let startY = cy - margin;
+
+            let endX = cx * rd(0.9, 0.45);
+            let endY = options.simple ? cy * options.endMargin : Math.min(cy * rd(0.15, 0.45), cy - margin - cy * 0.3); //至少有一定的y高度
+
+            let delX = endX - startX;
+            let delY = startY - endY;
+
+            let k = delY / delX / delX;
+
+            let perX = delX / options.divide;
+
+            let points = [
+                [startX, startY]
+            ];
+
+            for (let i = 0; i < options.divide; i++) {
+                let x = startX + (i + 1) * perX;
+                let y = k * (x - endX) * (x - endX) + endY;
+                points.push([x, y]);
+            }
+
+            gesture(time, points);
+
+            let min = slp + 500;
+            min = min > 0 ? min : 0;
+            let s = options.sleep || r(slp + 3000, min);
+            mySleep(s);
+        };
+        ctx.sys.swipeUp = (slp, margin, time, options) => {
+            return swipeUp(slp, margin, time, options);
+        };
+
+        function swipeDown(slp, margin, time, options) {
+            slp = slp || 0;
+            margin = margin || 0.2;
+            time = time || 400;
+            options = options || {};
+            options.divide = options.divide || r(15, 5);
+            options.simple = options.simple || false;
+            options.endMargin = options.endMargin || rd(0.83, 0.84);
+
+            let cx = device.width;
+            let cy = device.height;
+            margin = margin > 1 ? margin : (cy * margin);
+            margin = margin + cy * rd(options.simple ? 0.01 : 0.07, 0);
+
+            let startX = cx * rd(0.8, 0.45);
+            let startY = margin;
+
+            let endX = cx * rd(0.3, 0.75);
+            let endY = options.simple ? cy * options.endMargin : Math.max(cy * rd(0.8, 0.55), cy - margin - cy * 0.3);
+
+            let delX = endX - startX;
+            let delY = endY - startY;
+
+            let k = delY / delX / delX;
+
+            let perX = delX / options.divide;
+
+            let points = [
+                [startX, startY]
+            ];
+
+            for (let i = 0; i < options.divide; i++) {
+                let x = startX + (i + 1) * perX;
+                let y = k * (x - startX) * (x - startX) + startY;
+                points.push([x, y]);
+            }
+
+            gesture(time, points);
+
+            let min = slp + 500;
+            min = min > 0 ? min : 0;
+            let s = options.sleep || r(slp + 3000, min);
+            mySleep(s);
+        };
+        ctx.sys.swipeDown = (slp, margin, time, options) => {
+            return swipeDown(slp, margin, time, options);
+        };
+
+        function swipeLeft(slp, margin, time, options) {
+            options = options || {};
+            slp = slp || 0;
+            margin = margin || ctx.sys.rd(0.1, 0.05);
+            time = time || 400;
+            let cx = device.width;
+            let cy = device.height / 2;
+            let x1 = margin > 1 ? (cx - margin) : (cx * (1 - margin));
+            let y1 = cy * ctx.sys.rd(1.1, 0.9);
+            let x2 = margin > 1 ? margin : (cx * margin);
+            let y2 = cy * ctx.sys.rd(1.7, 1.2);
+            swipe(x1, y1, x2, y2, time);
+            let min = slp + 500;
+            min = min > 0 ? min : 0;
+            let s = options.sleep || ctx.sys.r(slp + 3000, min);
+            mySleep(s);
+        };
+        ctx.sys.swipeLeft = (slp, margin, time, options) => {
+            return swipeLeft(slp, margin, time, options);
+        };
+
+        function showCtrl(ctrlFunc, options) {
+            options = options || {};
+            options.swipeTimes = options.swipeTimes || 5;
+            options.dir = options.dir || "up";
+            options.top = isUndef(options.top) ? 0.2 : options.top;
+            options.bottom = options.bottom || 0.8;
+            let c = null;
+            let dh = device.height;
+            let tb = dh * options.top; //上边界
+            let bb = dh * options.bottom; //下边界
+            for (let i = 0; i < options.swipeTimes * 3; i++) {
+                c = ctrlFunc();
+                if (c) break;
+                if (options.dir == "up") {
+                    i < options.swipeTimes ? swipeUp(-3000, 0.3) : swipeDown(-3000, 0.3);
+                } else {
+                    i < options.swipeTimes ? swipeDown(-3000, 0.3) : swipeUp(-3000, 0.3);
+                }
+            }
+            let top = c ? c.bounds().top : 0;
+            let max = 20;
+            while (c && (top < tb - 1 || top > bb + 1) && max > 0) {
+                if (top < tb) swipeDown(-3000, top > 0 ? 0.4 : 0.3);
+                else if (top > bb) swipeUp(-3000, top < dh ? 0.4 : 0.3);
+                max--;
+                c = ctrlFunc();
+                top = c ? c.bounds().top : 0;
+            }
+            return c;
+        }
+        ctx.sys.showCtrl = (ctrlFunc, options) => {
+            return showCtrl(ctrlFunc, options);
+        };
+    } { // 存储功能库
+
+        let fw_storage = "fw";
+        let fw_storage_setting_key = "fw_setting";
+        let fw_storage_today_key = "fw_today_obj";
+        let fw_attr_last_tool_code = "lastToolCode";
+        let fw_attr_last_app = "lastApp";
+
+        function getStorage(key) {
+            let s = storages.create(fw_storage);
+            return s.get(key) || {};
+        };
+        ctx.sys.getStorage = (key) => {
+            return getStorage(key);
+        };
+
+        function setStorage(key, obj) {
+            let s = storages.create(fw_storage);
+            s.put(key, obj);
+        };
+        ctx.sys.setStorage = (key, obj) => {
+            return setStorage(key, obj);
+        };
+
+        function getSetting() {
+            return getStorage(fw_storage_setting_key);
+        };
+        ctx.sys.getSetting = () => {
+            return getSetting();
+        };
+
+        function setSetting(obj) {
+            setStorage(fw_storage_setting_key, obj);
+        };
+        ctx.sys.setSetting = (obj) => {
+            return setSetting(obj);
+        };
+
+        function getTSetting() {
+            let tc = getLastCode();
+            if (tc) {
+                return getStorage(fw_storage_setting_key + "-" + tc);
+            }
+            return {};
+        };
+        ctx.sys.getTSetting = () => {
+            return getTSetting();
+        };
+
+        function setTSetting(obj) {
+            let tc = getLastCode();
+            if (tc) {
+                return setStorage(fw_storage_setting_key + "-" + tc, obj);
+            }
+        };
+        ctx.sys.setTSetting = (obj) => {
+            return setTSetting(obj);
+        };
+
+        function getTodayObj() {
+            let obj = getStorage(fw_storage_today_key);
+            if (obj && obj.date == new Date().getDate()) {
+                return obj;
+            }
+            return {
+                date: new Date().getDate()
+            };
+        };
+        ctx.sys.getTodayObj = () => {
+            return getTodayObj();
+        };
+
+
+        function setTodayObj(obj) {
+            setStorage(fw_storage_today_key, obj);
+        };
+        ctx.sys.setTodayObj = (obj) => {
+            return setTodayObj(obj);
+        };
+
+        function getTTObj() {
+            let tc = getLastCode();
+            if (tc) {
+                let obj = getStorage(fw_storage_today_key + "-" + tc);
+                if (obj && obj.date == new Date().getDate()) {
+                    return obj;
+                }
+            }
+            return {
+                date: new Date().getDate()
+            };
+        };
+        ctx.sys.getTTObj = () => {
+            return getTTObj();
+        };
+
+        function setTTObj(obj) {
+            let tc = getLastCode();
+            if (tc) {
+                setStorage(fw_storage_today_key + "-" + tc, obj);
+            }
+        };
+        ctx.sys.setTTObj = (obj) => {
+            return setTTObj(obj);
+        };
+
+        function getTAObj() {
+            if (ctx.fw.curApp.id) {
+                let tc = getLastCode() || "";
+                let obj = getStorage(fw_storage_today_key + "-" + tc + "-" + ctx.fw.curApp.id);
+                if (obj && obj.date == new Date().getDate()) {
+                    return obj;
+                }
+            }
+            return {
+                date: new Date().getDate()
+            };
+        };
+        ctx.sys.getTAObj = () => {
+            return getTAObj();
+        };
+
+        function setTAObj(obj) {
+            if (ctx.fw.curApp.id) {
+                let tc = getLastCode() || "";
+                setStorage(fw_storage_today_key + "-" + tc + "-" + ctx.fw.curApp.id, obj)
+            }
+        }
+        ctx.sys.setTAObj = (obj) => {
+            return setTAObj(obj);
+        };
+
+        function getLastCode() {
+            return getSetting()[fw_attr_last_tool_code];
+        };
+        ctx.sys.getLastCode = () => {
+            return getLastCode();
+        };
+
+        function setLastCode(code) {
+            let obj = getSetting();
+            obj[fw_attr_last_tool_code] = code;
+            setSetting(obj);
+        }
+        ctx.sys.setLastCode = (code) => {
+            return setLastCode(code);
+        };
+
+        function getLastApp() {
+            return getTSetting()[fw_attr_last_app];
+        };
+        ctx.sys.getLastApp = () => {
+            return getLastApp();
+        };
+
+        function setLastApp(appID) {
+            let obj = getTSetting();
+            obj[fw_attr_last_app] = appID;
+            setTSetting(obj);
+        };
+        ctx.sys.setLastApp = (appID) => {
+            return setLastApp(appID);
+        };
+
+        function getDSItem(code) {
+            let ds = ctx.fw.ds;
+            for (let i = 0; i < ds.length; i++) {
+                if (ds[i].code == code) {
+                    return ds[i];
+                }
+            }
+            return null;
+        }
+        ctx.sys.getDSItem = (code) => {
+            return getDSItem(code);
+        };
+    } { // 手机设备功能信息库
+        function getMc(way) {
+            if (device.serial && device.serial.toLowerCase() != "unknown") {
+                return device.serial;
+            }
+            importClass(android.os.Build);
+            try {
+                if (Build.serial.toLowerCase() == "unknown") {
+                    let tm = context.getSystemService(context.TELEPHONY_SERVICE);
+                    return "D-" + tm.getDeviceId();
+                }
+                return Build.serial;
+            } catch (e) {
+                try {
+                    return "I-" + device.getIMEI();
+                } catch (e) {
+                    return "unknown";
+                }
+            }
+        };
+        ctx.sys.getMc = (way) => {
+            return getMc(way);
+        };
+
+        function isFlyOn() {
+            importClass(android.provider.Settings);
+            return Settings.Global.getInt(context.getContentResolver(), Settings.Global.AIRPLANE_MODE_ON, 0) != 0;
+        }
+        ctx.sys.isFlyOn = () => {
+            return isFlyOn();
+        }
+
+        function showInAlbum(fn, path) {
+            importClass(android.provider.MediaStore);
+            importClass(android.net.Uri);
+            MediaStore.Images.Media.insertImage(context.getContentResolver(),
+                path, fn, null);
+            context.sendBroadcast(new Intent(Intent.ACTION_MEDIA_SCANNER_SCAN_FILE, Uri.parse("file://" + path)));
+        }
+        ctx.sys.showInAlbum = (fn, path) => {
+            return showInAlbum(fn, path);
+        };
+
+        function isWifi() {
+            let cm = context.getSystemService(context.CONNECTIVITY_SERVICE);
+            let ni = cm.getActiveNetworkInfo();
+            if (ni) {
+                return ni.getType() == cm.TYPE_WIFI;
+            }
+            return false;
+        };
+        ctx.sys.isWifi = () => {
+            return isWifi();
+        };
+
+        function isVpn() {
+            try {
+                importClass(java.net.NetworkInterface);
+                importClass(java.util.Collections);
+                let list = NetworkInterface.getNetworkInterfaces();
+                let cs = Collections.list(list);
+                let arr = cs.toArray();
+                for (let p in arr) {
+                    let name = arr[p].getName();
+                    if (name == "ppp0" || name == "tun0") {
+                        return true;
+                    }
+                }
+            } catch (e) {
+
+            }
+            return false;
+        }
+        ctx.sys.isVpn = () => {
+            return isVpn();
+        };
+
+        function isXiaomi() {
+            return device.brand.toLowerCase() == "xiaomi";
+        }
+        ctx.sys.isXiaomi = () => {
+            return isXiaomi();
+        }
+
+        function isMeizu() {
+            return device.brand.toLowerCase() == "meizu";
+        }
+        ctx.sys.isMeizu = () => {
+            return isMeizu();
+        }
+
+        function goDesktop() {
+            for (let i = 0; i < 3; i++) {
+                home();
+                mySleep(300);
+            }
+            mySleep(1000);
+        };
+        ctx.sys.goDesktop = () => {
+            return goDesktop();
+        };
+
+        function backToDesktop(time) {
+            time = time || 400;
+            let max = 10;
+            while (max > 0 && !currentActivity().toLowerCase().endsWith("launcher")) {
+                back();
+                max--;
+                sleep(time);
+            }
+            home();
+        };
+        ctx.sys.backToDesktop = (time) => {
+            return backToDesktop(time);
+        };
+    } { // 手机适配操作库
+
+        function clearBPAll() {
+            // 适配
+            if (isXiaomi()) {
+                goDesktop();
+                let c = myId("progressBar");
+                myClick(c, 3000);
+            } else if (isMeizu()) {
+                //NOTE: 需要将手机的导航和多任务设置成安卓导航栏方式
+                goDesktop();
+                let c_icon = myText("一键加速");
+                myClickP(c_icon, 5000);
+            }
+        };
+        ctx.sys.clearBPAll = () => {
+            return clearBPAll();
+        };
+
+        function allowOpen(allow) {
+            if (ctx.sys.isXiaomi()) {
+                if (ctx.sys.textContains("正在尝试开启") && ctx.sys.textContains("是否允许")) {
+                    ctx.sys.clickT(allow ? "允许" : "拒绝");
+                }
+            } else if (ctx.sys.isMeizu()) {
+
+            }
+        };
+        ctx.sys.allowOpen = (allow) => {
+            return allowOpen(allow);
+        };
+
+        function noResponse() {
+            if (ctx.sys.textContains("无响应") && ctx.sys.textContains("要将其关闭吗")) {
+                ctx.sys.clickT("确定");
+            }
+        }
+        ctx.sys.noResponse = () => {
+            return noResponse();
+        };
+
+
+    } { // 业务功能库
+        function showDlg(content, title, options) {
+            options = options || {};
+            options.title = options.title || title || "信息";
+            options.dur = options.dur || 10;
+            options.content = options.content || content || "";
+            options.appendDefault = options.appendDefault || true;
+            if (options.appendDefault) {
+                options.content += ("\n本窗口将在" + options.dur + "秒后自动关闭");
+            }
+            options.positive = "知道了";
+            options.positiveColor = "black";
+            let dlg = null;
+            let end = false;
+            let start = Date.now();
+            threads.start(function () {
+                dlg = dialogs.build(options)
+                    .on("positive", () => {
+                        end = true;
+                        if (options.positiveFunc) {
+                            options.positiveFunc();
+                        }
+                    }).on("negative", () => {
+                        end = true;
+                        if (options.negativeFunc) {
+                            options.negativeFunc();
+                        }
+                    }).on("neutral", () => {
+                        end = true;
+                        if (options.neutralFunc) {
+                            options.neutralFunc();
+                        }
+                    }).on("check", (checked) => {
+                        end = true;
+                        if (options.checkFunc) {
+                            options.checkFunc(checked);
+                        }
+                    }).show();
+            });
+
+            while (Date.now() - start < options.dur * 1000 && !end) {}
+
+            if (dlg) {
+                dlg.dismiss();
+            }
+        }
+        ctx.sys.showDlg = (content, title, options) => {
+            return showDlg(content, title, options);
+        };
+
+        function myLog(msg, prefix, title) {
+            let code = getLastCode();
+            let dsi = getDSItem(code);
+            msg = "" + msg;
+            if (msg.indexOf("InterruptedException") > -1) {
+                msg = "脚本已强制终止";
+            } else if (msg.indexOf("com.stardust.") > -1) {
+                return;
+            }
+            msg = (prefix || ctx.fw.curApp.name || "系统") + ":" + msg;
+            msg = msg.replace("aut" + "ojs", "ze" + "us").replace("Aut" + "ojs", "Ze" + "us").replace("js", "").replace("jav" + "asc" + "ript", "lua");
+            let mm = msg.toLowerCase();
+            if (mm.indexOf("jav" + "asc" + "ript") > -1 || mm.indexOf("aut" + "ojs") > -1) {
+                return;
+            }
+            if (!app.cfg.version || ctx.fw.isTest) {
+                toast(msg);
+            }
+            try {
+                let date = fmtDate(Date());
+                title = title || (dsi ? dsi.title : "");
+                let fn = "/sdcard/001/log_" + date + (title ? ("_" + title) : "") + ".txt";
+                files.createWithDirs(fn);
+                let d = new Date();
+                let time = padLeft(d.getHours()) + ":" + padLeft(d.getMinutes()) + ":" + padLeft(d.getSeconds()) + " ";
+                files.append(fn, time + msg + "\r\n");
+            } catch (e) {
+                log(e);
+            }
+            log(msg);
+        };
+        ctx.sys.log = (msg, prefix, title) => {
+            return myLog(msg, prefix, title);
+        };
+
+        function getIP() {
+            let res = http.get('http://pv.sohu.com/cityjson?ie=utf-8');
+            let resJsonStr = res.body.string();
+            try {
+                let idx = resJsonStr.indexOf("=") + 2;
+                let data = resJsonStr.substring(idx, resJsonStr.length - 1);
+                let obj = JSON.parse(data);
+                return obj.cip;
+            } catch (e) {}
+        }
+        ctx.sys.getIP = () => {
+            return getIP();
+        }
+
+        function stat(webviewCtrl, qsJson, options) {
+            options = options || {};
+            let qsStr = "";
+            for (qs in qsJson) {
+                qsStr += qs + "=" + qsJson[qs] + "&";
+            }
+            qsStr = qsStr.length > 0 ? qsStr.slice(0, -1) : "";
+            let url = "http://tiantiansvc.coding.me/wsa/ts-p00-intro/stat-baidu.html?" + qsStr;
+            try {
+                ui.run(() => webviewCtrl.loadUrl(url));
+            } catch (e) {}
+        }
+        ctx.sys.stat = (webviewCtrl, qsJson, options) => {
+            return stat(webviewCtrl, qsJson, options);
+        };
+
+        function getCfgValue(valueStr, def) {
+            if (valueStr == "0") {
+                return 0;
+            }
+            if (typeof def == "function") {
+                def = def();
+            }
+            if (!valueStr) {
+                return def;
+            }
+            valueStr = valueStr.replace(",", ";");
+            let num1 = getNum(valueStr);
+            let idx = valueStr.indexOf(";");
+            let res = num1 || def;
+            if (idx > 0) {
+                let num2 = getNum(valueStr.substring(idx));
+                res = r(num1, num2);
+            }
+            ctx.sys.log("获取设定值：" + res);
+            return res;
+        }
+        ctx.sys.getCfgValue = (valueStr, def) => {
+            return getCfgValue(valueStr, def);
+        };
+
+        function guagua(ctrl, options) {
+            options = options || {};
+            options.offset = options.offset || 100;
+            options.distance = options.distance || 200;
+            options.maxTimesOneSide = options.maxTimesOneSide || 3;
+            options.duration = options.duration || 6000;
+            if (ctrl) {
+                let b = ctrl.bounds();
+                if (b) {
+                    let cx = b.centerX();
+                    let cy = b.centerY();
+                    let w = b.width();
+                    let h = b.height();
+                    let d = Math.min(h - 50, options.distance);
+                    let times = Math.min(options.maxTimesOneSide, w / (2 * options.offset));
+                    let points = [];
+                    for (let i = 0; i < times; i++) {
+                        points.push([cx - (times - i) * options.offset, cy - d]);
+                        points.push([cx - (times - i) * options.offset, cy + d]);
+                    }
+                    for (let i = 0; i < times; i++) {
+                        points.push([cx + i * options.offset, cy - d]);
+                        points.push([cx + i * options.offset, cy + d]);
+                    }
+                    gesture(options.duration, points);
+                }
+            }
+        }
+
+        ctx.sys.guagua = (ctrl, options) => {
+            return guagua(ctrl, options);
+        };
+    } { // 微信业务功能
+        function wxLogin() {
+            let cfm = ctx.sys.text("确认登录", 5000) || ctx.sys.text("同意");
+            return ctx.sys.click(cfm);
+        }
+        ctx.sys.wxLogin = () => {
+            return wxLogin();
+        };
+    }
+
+})();
